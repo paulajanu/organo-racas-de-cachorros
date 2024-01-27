@@ -10,7 +10,7 @@ O "Organo: Raças de cachorros" tem como objetivo auxiliar na organização das 
 ### Atualizações realizadas no projeto 🚧
 
 Sua atualização foi realizada por meio do curso 'React: migrando para TypeScript', no qual aprendi sobre as principais diferenças entre TS e JS, as vantagens do TypeScript e como integrar componentes React ao TypeScript.
-Se desejar visualizar o código do projeto com JavaScript, basta clicar [aqui](https://github.com/paulajanu/organo-racas-de-cachorros-js)
+Se desejar visualizar o código do projeto com JavaScript, basta clicar [aqui](https://github.com/paulajanu/organo-racas-de-cachorros-js).
 
 ### Tecnologias e ferramentas utilizadas 🛠️
 <div style="display: inline_block" align="center"><br>
