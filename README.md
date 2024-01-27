@@ -7,8 +7,13 @@ A temática original do curso (Organo) é focada na gestão dos colaboradores da
 ### Objetivo 🎯
 O "Organo: Raças de cachorros" tem como objetivo auxiliar na organização das raças de cachorros, permitindo a criação de cards com informações relevantes sobre cada raça. Os usuários podem adicionar o nome da raça, o nível de cuidados e categorizá-las de acordo com o porte: pequeno, médio e grande.
 
+### Atualizações realizadas no projeto 🚧
+
+Sua atualização foi realizada por meio do curso 'React: migrando para TypeScript', no qual aprendi sobre as principais diferenças entre TS e JS, as vantagens do TypeScript e como integrar componentes React ao TypeScript.
+
 ### Tecnologias e ferramentas utilizadas 🛠️
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Lud-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lud-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lud-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
