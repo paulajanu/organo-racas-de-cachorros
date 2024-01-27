@@ -3,6 +3,7 @@ import Banner from './Componentes/Banner';
 import Formulario from './Componentes/Formulario';
 import Time from './Componentes/Time';
 import Rodape from './Componentes/Rodape';
+import { IColaborador } from './compartilhado/interfaces/IColaborador';
 
 function App() {
 
@@ -24,15 +25,18 @@ function App() {
     },
   ]
 
-  const [colaboradores, setColaboradores] = useState([])
+  const [colaboradores, setColaboradores] = useState<IColaborador[]>([])
 
-  const aoNovoColaboradorAdicionado = (colaborador) => {
+  const aoNovoColaboradorAdicionado = (colaborador: IColaborador) => {
     setColaboradores([...colaboradores, colaborador])
   }
 
   return (
     <div className="App">
-      <Banner />
+      <Banner 
+        enderecoImagem="/imagens/banner.png"
+        textoAlternativo="Banner principal da página do Organo"
+      />
       <Formulario times={times.map(time => time.nome)} aoColaboradorCadastrado={colaborador => aoNovoColaboradorAdicionado(colaborador)}/>
 
       {times.map(time => <Time 
